@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: member-management
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Pan
+Implementation-Vendor-Id: com.member.management
+Build-Jdk: 1.8.0_51
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/member-management
+Created-By: Maven Integration for Eclipse
+
